@@ -42,3 +42,5 @@ and a brief description. Users can filter events by date and category.
 6. **Responsive Design**
    - Ensure all pages are responsive using Bootstrap's grid system and utilities.
    - Test the application on different screen sizes.
+
+#### (https://github.com/ALU-BSE/afd-2023m-week-8-challenge/blob/main/assignment_resources.md)[Resources]
